@@ -1,0 +1,7 @@
+## Interface: 40100
+## Version: 1.0
+## Title: |cff1784d1ElvUI Talent Tooltips|r
+## Author: Lockslap (US, Bleeding Hollow)
+## Notes: Adds Talent Spec to Player Tooltips
+## OptionalDeps: ElvUI
+ElvUI_TooltipTalents.lua
